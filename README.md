@@ -42,15 +42,15 @@ A faithful clone of the popular mobile game "Flappy Bird", implemented using **P
     ```
 
 ## Project Structure
-    -game.py # Main game loop and logic
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── images/ # Asset directory
-├── background.png
-├── bird_wing_up.png
-├── bird_wing_down.png
-├── pipe_body.png
-└── pipe_end.png
+    - game.py # Main game loop and logic
+    - requirements.txt # Python dependencies
+    - README.md # Project documentation
+    - images/ # Asset directory
+    - background.png
+    - bird_wing_up.png
+    - bird_wing_down.png
+    - pipe_body.png
+    - pipe_end.png
 
 ## Technical Implementation
 
