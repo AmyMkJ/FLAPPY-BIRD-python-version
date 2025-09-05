@@ -42,7 +42,7 @@ A faithful clone of the popular mobile game "Flappy Bird", implemented using **P
     ```
 
 ## Project Structure
-├── game.py # Main game loop and logic
+    -game.py # Main game loop and logic
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── images/ # Asset directory
