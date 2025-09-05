@@ -23,7 +23,7 @@ A faithful clone of the popular mobile game "Flappy Bird", implemented using **P
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://AmyMkJ/FLAPPY-BIRD-python-version.git
+    git clone [[https://AmyMkJ/FLAPPY-BIRD-python-version.git](https://github.c](https://github.com/AmyMkJ/FLAPPY-BIRD-python-version)
     cd FLAPPY-BIRD-python-version
     ```
 
